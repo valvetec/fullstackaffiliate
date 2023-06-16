@@ -1,0 +1,147 @@
+.affdashcardDiv1{
+    min-height: 250px;
+    margin-right: auto;
+    margin-left: auto;
+   
+}
+
+.affdashcardDiv2{
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x) / -2);
+    margin-left: calc(var(--bs-gutter-x) / -2);
+    
+    
+}
+.affdashcardDiv3{
+    position: relative;
+    flex: 0 0 auto;
+    width: 100%;
+    
+}
+.affdashcardDiv4{
+    flex: 0 0 auto;
+    width: 100%;
+   
+}
+
+.affdashcardDiv4sub1{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    border-radius: 10px;
+    padding: 10px;
+    color: #130019;
+    margin-bottom: 10px;
+    margin-top: 100px;
+
+}
+.affdashcardImg1{
+    width: 50px;
+    border-radius: 50%;
+    border: 2px solid gray;
+}
+img{
+    max-width: 100%;
+}
+.affdashcardText1{
+    font-size: 1.1428571429rem;
+    font-weight: bolder 
+}
+.affdashcardText2{
+    font-size: 1rem;
+}
+.affdashcardDiv5{
+    flex: 0 0 auto;
+    width: 100%;
+}
+
+.affdashcardDiv5sub{
+    margin-bottom: 1rem;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    display: flex;
+    overflow: scroll;
+    --bs-gutter-y: 3rem;
+}
+
+.affdashcardDiv5sub1{
+    position: relative;
+    margin-bottom: 1.5rem;
+    width: 80%;
+    height: 180px;
+    transition: 0.5s;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px 20px 15px;
+    background-image: linear-gradient( 90deg, rgba(125, 15, 28, 0.7) 0%, rgba(31, 5, 8, 0.5) 35%, rgb(81, 18, 26) 100%), url('https://learnify.ng/newUser/images/card_patern.jpg');
+    background-size: cover;
+    background-color: rgba(114, 47, 55, 0.25);
+    border-radius: 10px;
+    flex: 0 0 auto;
+    margin-right: 10px;   
+}
+.afov{
+    background-image: linear-gradient(98.3deg, rgb(0, 0, 0, 0.8) 10.6%, rgb(192, 2, 2) 97.7%), url('https://learnify.ng/newUser/images/card_patern_1.jpg');
+}
+
+
+.affdashcardDiv5sub2{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+.affdashcardDiv5sub3{
+    margin-right: auto;
+    margin-left: auto;
+}
+.affdashcardDiv5sub2sub1{
+    flex-direction: column;
+    display: flex;
+}
+.affdashcardDiv5sub2sub1Img1{
+    align-self: center;
+    width: 35px;
+}
+.affdashcardDiv5sub2sub1Span1{
+    font-size: 0.7142857143rem;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.affdashcardDiv5sub2sub1Span2{
+    font-size: 1.5714285714rem;
+    color: #fff;
+    font-weight: 700;
+}
+.affdashcardDiv5sub2sub1Span3{
+    font-size: 0.8571428571rem;
+    color: #fff;
+    font-weight: 700;
+}
+.affdashcardDiv5sub2sub1Span4{
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #fff;
+}
+.affdashcardP{
+    color: #fff;
+    margin-bottom: 5px;
+    line-height: normal;
+    font-size: 1.2857142857rem;
+}
+.affdashcardDivButton{
+    border-radius: 25px;
+    background-color: #b60f4736;
+    padding: 4px 10px 4px 10px;
+    border: unset;
+    font-weight: 400;
+    color: white;
+}
+

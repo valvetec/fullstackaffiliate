@@ -1,0 +1,27 @@
+
+.regSuccessDiv1{
+    height: 100%;
+    
+    align-items: center;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+    
+   
+    
+}
+
+.regSuccessDiv2{
+    background-color: white;
+    width: 22%;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 120px;
+    border-radius: 10px;
+    padding: 0 10px 0 10px;
+}
+.customToolstyle{
+    width: 70px;
+    height: 70px;
+}

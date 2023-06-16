@@ -1,0 +1,189 @@
+.wrapper{
+    height: 100%;
+    width: 100%;
+   
+}
+
+li{
+    text-decoration: none;
+    list-style-type: none;
+    cursor: pointer;
+    
+}
+
+.custom-li:hover{
+    color:#E21C21 ;
+}
+
+
+
+.homeDiv2{
+   
+    background-color: #F4F6F7;
+    height: 'auto';
+    padding-bottom: 20px;
+    
+   
+}
+
+.homeDiv2SubDiv1{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+   
+  
+}
+
+.homeDiv2SubDiv1SubDiv1{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+   
+}
+
+
+.homeDiv2SubDiv1SubDiv2{
+    width: 100%;
+  
+}
+
+.homeImage1Div{
+    width: 37%;
+    height: 45%;
+    padding-left: 20px;
+   
+   
+}
+
+
+.homeImage1{
+    width: 100%;
+    height: 100%;
+}
+
+
+.homeDiv2SubDiv1SubDiv2SubDiv1{
+   width: 50%;
+   justify-content: center;
+}
+
+.customHomeText1{
+    line-height: 2em;
+}
+.homeCustomBTNDiv{
+    width: 40%;
+}
+
+.homeDiv2SubDiv1SubDiv2SubDiv2{
+    width: 100%;
+    justify-content: center;
+    height: 100%;
+   
+   
+ }
+
+ .homeDiv2SubDiv1SubDiv2SubDiv2{
+    width: 100%;
+   
+ }
+
+.homeDiv2SubDiv1SubDiv2SubDiv3{
+    width: 40%;
+   
+   justify-content: center;
+    height: 400px;
+    border-radius: 10px;
+    
+   
+ }
+.homeDiv3{
+    background-color: #F1F3FE;
+    padding-bottom: 50px;
+    height: auto;
+}
+.homeDiv3SubDiv1{
+    justify-content: center;
+    align-items: center;
+  
+    
+}
+
+.homeDiv3SubDiv2{
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 40px;
+   
+}
+
+.homeDiv3SubDiv3{
+    width: 28%;
+    padding: 30px 10px 30px 10px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background-color: white;
+    height: 300px;
+    
+}
+.customHomeText{
+    padding-top: 25px;
+}
+.homeDiv4{
+    width: 100%;
+    background-color: #F1F3FE
+}
+.homeDiv4SubDiv1{
+    width: 100%;
+}
+.homeDiv4SubDiv1{
+    background: linear-gradient(to left, rgba(0,0,0,0.6), #650A36), url(../../images/ladylaptop.jpg);
+    background-size: cover;
+    height: 70vh;
+    width: 100%;
+}
+
+.homeDiv4SubDiv2{
+   justify-content: center;
+}
+.homeDiv5{
+    background-color: #F1F3FE;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    height: 20vh;
+}
+
+.homeDiv5SubDiv1{
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   height: 100%;
+}
+
+
+.homeDiv5SubDiv2{
+    justify-content: center;
+    width: 50%;
+    height: 100%;
+ }
+ .customHomeBTN{
+    background-color: #F1F3FE !important;
+    border: 2px solid #E21C21  !important;
+    color: black !important;
+ }
+ .customHomeInput{
+    
+    border: 2px solid #E21C21  !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    background-color: #F1F3FE !important;
+    outline: none;
+ }
+
+ .homeTextNow{
+    color: pink;
+ }

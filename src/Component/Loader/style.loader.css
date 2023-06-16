@@ -1,0 +1,32 @@
+
+
+.loadingMainDiv{
+    width: 100%;
+    height: 100%;
+    background-color: #650A36;
+    position: fixed;
+    z-index: 10;
+    opacity:0.3;
+    align-items: center;
+    justify-content: center;
+   
+ 
+}
+
+.loaderImg{
+    width: 400px;
+    height: 400px;
+}
+.loaderText1{ 
+    color: white;
+    position: fixed;
+}
+
+.spinnerMainDiv{
+    position: fixed;
+    z-index: 10;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}

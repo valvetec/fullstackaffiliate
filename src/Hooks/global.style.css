@@ -1,0 +1,209 @@
+.mainContainer{
+    max-width: 1400px;
+    margin: 0 auto;
+    overflow: auto;
+    padding: 0 40px;
+}
+.width{
+    width: 100%
+}
+
+/* text styles*/
+
+.centerText{
+    text-align: center;
+}
+.extraLargTextHeader{
+    font-size: 40px;
+}
+
+
+.textHeader{
+    font-size: 35px;
+}
+
+.lgTextHeader{
+    font-size: 30px;
+}
+
+.mediumText{
+    font-size: 20px;
+}
+
+.smallText{
+    font-size: 17px;
+}
+
+.smallerText{
+    font-size: 14px;
+}
+.baseText{
+    font-size: 12px;
+}
+
+.pryFontHeaderFamily{
+    font-family: 'Balthazar', serif
+}
+
+.textFontFamily{
+    font-family: 'Open Sans', 'sans-serif';
+}
+
+
+
+/* button style */
+
+.btnColor{
+    background-color: #E21C21;
+}
+
+
+
+.globalBTN{
+    padding: 13px 45px 13px 45px;
+    background-color: #650A36;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+   font-family: 'Balthazar', 'serif';
+   cursor: pointer;
+    
+}
+
+
+
+
+/* color scheme */
+.pryColor{
+    background-color: #E21C21;
+}
+
+.bgColor{
+    background-color: #FDFEFE; 
+}
+.whiteTextColor{
+    color: #ffffff;
+}
+
+.secondaryTextColor{
+    color: #4C4C4C;
+}
+
+.primaryTextColor{
+    color:#E21C21 ;
+}
+
+.secondaryColor{
+    background-color: #650A36;
+}
+
+::placeholder {
+    color: #B6B7B7;
+  }
+
+.secondaryTextColor2{
+    color:#650A36;  
+}
+
+/* display styles */
+
+.flexDisplayRow{
+    display: flex;
+    flex-direction: row;
+}
+
+.flexDisplayColumn{
+    display: flex;
+    flex-direction:column;
+}
+
+/* box shadow */
+
+.boxShadow{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+/* margins */
+
+.smMarginLeft{
+    margin-left: 10px;
+}
+
+
+.mdMarginLeft{
+    margin-left: 20px;
+}
+
+.lgMarginLeft{
+    margin-left: 25px;
+}
+
+
+
+/* margin right */
+.smMarginRight{
+    margin-right: 10px;
+}
+
+
+.mdMarginRight{
+    margin-right: 20px;
+}
+
+.lgMarginRight{
+    margin-right: 25px;
+}
+
+
+/* margin top */
+.smMarginTop{
+    margin-top: 15px;
+}
+
+.mdMarginTop{
+    margin-top: 25px;
+}
+
+
+.lgMarginTop{
+    margin-top: 35px;
+}
+
+
+/* margin bottom */
+.smMarginBottom{
+    margin-bottom: 15px;
+}
+
+.mdMarginBottom{
+    margin-bottom: 25px;
+}
+
+
+.lgMarginBottom{
+    margin-bottom: 35px;
+}
+
+/*cursor pointer */
+
+.cursorPointer{
+    cursor: pointer;
+}
+.link{
+    text-decoration: none;
+    color: #4C4C4C;
+}
+
+/* icons */
+
+.toolIcon{
+    width: 100px;
+    height: 100px;
+     
+}
+
+.bgBlur{
+    filter: blur(1.5px);
+}

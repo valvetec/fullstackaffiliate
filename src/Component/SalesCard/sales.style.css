@@ -1,0 +1,96 @@
+.mainContainer {
+    max-width: 1600px;
+    margin: 0 auto;
+    overflow: auto;
+    padding: 0 40px;
+}
+
+.saleDiv1 {
+    width: 100%;
+    height: auto;
+   
+}
+
+.saleDiv2 {
+    text-align: center;
+    color: white;
+    height: 100%;
+}
+
+.h1 {
+    position: absolute;
+    font-size: 40px;
+    font-weight: 700;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.saleDiv3 {
+    width: 100%;
+    height: 75px;
+    background-color: white;
+}
+
+.saleDiv4 {
+    height: calc(100% - 50px);
+}
+
+.saleDiv5 {}
+
+.saleImage1 {
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+
+.saleSecondDiv1 {
+    margin-right: auto;
+    margin-left: auto;
+    padding: 16px;
+    width: 70%;
+}
+
+.saleSecondDiv2 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.saleSecondDiv3 {
+    position: relative;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.saleSecondDiv4 {
+    margin-top: 100px;
+}
+
+.saleSecondDiv6 {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.h3 {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 5px;
+    margin-right: 0;
+    margin-bottom: 15px;
+    color: #650A36;
+}
+
+.p {
+    display: block;
+    font-size: 20px;
+    font-weight: 200;
+    line-height: 30px;
+
+}

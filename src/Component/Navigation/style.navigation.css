@@ -1,0 +1,47 @@
+
+
+.navHeader{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    padding: 15px 0 15px 0;
+    align-items: center;
+    
+}
+
+
+
+.navHeaderDiv1{
+    justify-content: space-between;
+    height: 100%;
+}
+
+
+.navHeaderSubDiv1{
+    width: 35%;
+    height: 100%;
+}
+
+.navHeaderSubDiv2{
+    width: 45%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.custom-li:hover{
+    color:#E21C21 ;
+}
+.navHeaderSubDiv3{
+    width: 25%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+li{
+    text-decoration: none;
+    list-style-type: none;
+    cursor: pointer;
+    
+}
